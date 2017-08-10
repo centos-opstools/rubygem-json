@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5a890539_aa03f671",
+        "filename": "rubygem-json.spec",
+        "patchSetId": 2
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 390
+      },
+      "writtenOn": "2017-08-10T09:39:10Z",
+      "side": 1,
+      "message": "do we want to get rid of tabs?",
+      "revId": "21368a6054e861e66e85ad87c707ce96b837d74f",
+      "serverId": "270e2033-b340-4cff-9539-693957ebf0e7",
+      "unresolved": false
+    }
+  ]
+}
