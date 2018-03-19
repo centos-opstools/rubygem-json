@@ -8,7 +8,7 @@
 Summary: JSON Implementation for Ruby
 Name: %{?scl_prefix}rubygem-%{gem_name}
 Version: 2.0.2
-Release: 2%{?dist}
+Release: 3%{?dist}
 Group: Development/Languages
 License: Ruby
 URL: http://flori.github.com/json
@@ -134,6 +134,9 @@ rm -fr %{buildroot}%{gem_instdir}/lib/json/pure*
 
 
 %changelog
+* Mon Mar 19 2018 Matthias Runge <mrunge@redhat.com> - 2.0.2-3
+- bump NVR to build for additional arches
+
 * Wed Sep 21 2016 Rich Megginson <rmeggins@redhat.com> - 2.0.2-2
 - bump rev to rebuild for rhlog
 - hand hack shared library paths
